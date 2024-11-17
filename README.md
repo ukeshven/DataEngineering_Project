@@ -38,5 +38,6 @@ The project simulates real-time stock market data using a CSV dataset and stream
 ## Project Architecture
 
 ### Workflow Diagram
+The project's workflow is represented in the diagram below:
 
-
+![Workflow Diagram](Flowchart.png)
