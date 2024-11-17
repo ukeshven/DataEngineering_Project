@@ -33,3 +33,9 @@ The project simulates real-time stock market data using a CSV dataset and stream
 
 5. **Data Analysis**:
    - AWS Athena queries the processed data to extract insights.
+  
+## Project Architecture
+
+### Workflow Diagram
+![Flowchart](flowchart.png)
+
